@@ -1,6 +1,6 @@
 # Live Preview 🌐
 
-Check out the live preview of the Conversational AI Clone using Gemini API [here](https://react-gemini-ai-clone.web.app/). 
+Check out the live preview of the Conversational AI Clone using Gemini API [here](https://react-gemini-ai-clone.web.app/). :point_left: 
 
 ---
 
