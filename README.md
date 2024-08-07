@@ -1,4 +1,8 @@
+# Live Preview 🌐
 
+Check out the live preview of the Conversational AI Clone using Gemini API [here](https://react-gemini-ai-clone.web.app/). 
+
+---
 
 # 🤖 Conversational AI Clone using Gemini API
 
@@ -25,6 +29,7 @@ This project is a conversational AI application built using React.js, designed t
 2. **Install Dependencies 📦**
    ```npm
    npm install
+   ```
 
 3. **Start the Development Server 🚀**
    ```npm
@@ -45,5 +50,3 @@ Feel free to submit issues or pull requests if you have suggestions or improveme
 
 - **Gemini API 🌟**: For providing the natural language processing capabilities that power the conversational AI.
 - **React.js ⚛️**: For the framework used to build the user interface.
-
-
